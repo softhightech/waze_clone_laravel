@@ -1,1 +1,2 @@
+*Location Reminder App*
 This project allows you to save specific locations, and based on your position, the app triggers an alert when you're near them to remind you. It can be used for marking hazardous spots or important places to remember, similar to Waze but with a single dedicated purpose.
